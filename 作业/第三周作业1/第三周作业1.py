@@ -13,17 +13,17 @@
 '''
 第一步：net = LeNet(classes=2)
 第二步：LeNet类，__init__()，super(LeNet, self).__init__()函数
-第三步:  Module类, __init__()函数/_construct()函数/_setattr()函数
+第三步：Module类, __init__()函数/_construct()函数/_setattr()函数
 第四步：Conv2d类，__init__()函数
-第五步:  Module类, __setattr()函数
+第五步：Module类, __setattr()函数
 第六步：Conv2d类，__init__()函数
-第七步:  Module类, __setattr()函数
+第七步：Module类, __setattr()函数
 第八步：Linear类，__init__()函数
-第九步:  Module类, _construct()函数/_setattr()函数
+第九步：Module类, _construct()函数/_setattr()函数
 第十步：Linear类，__init__()函数
-第十一步:  Module类, _construct()函数/_setattr()函数
-第十二步步：Linear类，__init__()函数
-第十三步:  Module类, _construct()函数/_setattr()函数
+第十一步：Module类, _construct()函数/_setattr()函数
+第十二步：Linear类，__init__()函数
+第十三步：Module类, _construct()函数/_setattr()函数
 第十四步：返回net
 '''
 
