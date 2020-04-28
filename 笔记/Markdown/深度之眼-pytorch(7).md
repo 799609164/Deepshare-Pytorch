@@ -115,7 +115,7 @@ gpu1 = torch.device("cuda")
 linear.to(gpu1)
 ```
 
-* **注：**张量不执行 inplace，模型执行 inplace
+* **注：** 张量不执行 inplace，模型执行 inplace
 
 ### 3.3 多GPU并行运算
 
